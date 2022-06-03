@@ -1,5 +1,4 @@
-
-fitri 
+gws rio
 #sertakan "iostream
 #sertakan "cmath"
 #include "iomanip"

@@ -1,5 +1,5 @@
-harus semangat 
-komis cakep
+harus  semangat 
+rahma sehat
 #sertakan "iostream
 #sertakan "cmath"
 #include "iomanip"

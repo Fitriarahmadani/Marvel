@@ -1,5 +1,5 @@
-harus  semangat 
-ayok 
+harus   semangat 
+saya  
 #sertakan "i
 #sertakan "cmath"
 #include "iomanip"

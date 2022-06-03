@@ -1,4 +1,4 @@
-KKita  nanti  buat MgCl2 ya guys 
+saya fitria mengubah mgcl2 menjadi H2O 
 #sertakan "iostream"
 #include "cmath"
 #include "iomanip"

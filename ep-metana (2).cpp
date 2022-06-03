@@ -1,5 +1,5 @@
 harus  semangat 
-ayok bisa pasti 
+ayok  pasti bisa komputasi kimia 
 #sertakan "i
 #sertakan "cmath"
 #include "iomanip"
